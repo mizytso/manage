@@ -1,0 +1,80 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/myweb" />
+        <option value="$USER_HOME$/PycharmProjects/secondproject" />
+        <option value="$USER_HOME$/PycharmProjects/firstproject" />
+        <option value="$USER_HOME$/PycharmProjects/1project" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/myweb" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PycharmProjects/myweb" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/1project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532335572725" />
+              <option name="buildTimestamp" value="1527146114563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/firstproject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532407098146" />
+              <option name="buildTimestamp" value="1527146106096" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/myweb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533432163466" />
+              <option name="buildTimestamp" value="1527146154063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/secondproject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533021802824" />
+              <option name="buildTimestamp" value="1527146158532" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532104675264" />
+              <option name="buildTimestamp" value="1527146142133" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

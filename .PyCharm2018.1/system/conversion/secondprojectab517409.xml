@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Administrator\PycharmProjects\secondproject\.idea\misc.xml" timestamp="1532406897110" />
+    <file path="C:\Users\Administrator\PycharmProjects\secondproject\.idea\modules.xml" timestamp="1532406832797" />
+    <file path="C:\Users\Administrator\PycharmProjects\secondproject\.idea\secondproject.iml" timestamp="1532406897029" />
+    <file path="C:\Users\Administrator\PycharmProjects\secondproject\.idea\workspace.xml" timestamp="1532425602500" />
+  </project-files>
+</conversion>
+
